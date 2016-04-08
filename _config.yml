@@ -1,0 +1,28 @@
+name: Theplanetofdreams
+favicon: null
+layout_spectrum: 0.9596089215483516
+typography_spectrum: 0.6706200412008911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3356302548199892
+  lightness: 0.3601941801607609
+  saturation: 0.2047347358893603
+  rhythmicContrast: 0.33001888636499643
+purpose: []
