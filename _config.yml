@@ -1,4 +1,4 @@
-name: Theplanetofdreams
+name: Federico Hamann Artist
 favicon: null
 layout_spectrum: 0.9596089215483516
 typography_spectrum: 0.6706200412008911
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5
+    - '#137cca'
+    - '#f0f1eb'
+    - '#fd9a90'
+    - '#233946'
+    - '#dc5963'
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
